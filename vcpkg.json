@@ -1,0 +1,6 @@
+{
+  "dependencies" : [ {
+    "name" : "curl",
+    "version>=" : "8.6.0"
+  } ]
+}
